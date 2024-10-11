@@ -1,0 +1,3 @@
+Herencia: Se crearon dos subclases de usuario para implementar la herencia. UsuarioEstudiante y UsuarioProfesor heredan atributos y métodos de Usuario, reutilizando el código de la clase base.
+Encapsulamiento: Los atributos como nombre, numero_usuario, correo, y telefono están encapsulados dentro de las clases, y se controlan mediante métodos.
+Polimorfismo: El método tipo_usuario() se comporta de manera diferente en cada subclase (UsuarioEstudiante y UsuarioProfesor), dependiendo del tipo de usuario.
